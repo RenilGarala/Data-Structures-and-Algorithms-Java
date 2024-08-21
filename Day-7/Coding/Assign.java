@@ -10,6 +10,8 @@ public class Assign {
         else{
             System.out.println("number is not divisble by 5");
         }
+
+        // return num%5==0; return true or false 
     }
 
     //2. Write a program to check whether a given number is even or odd
@@ -28,6 +30,7 @@ public class Assign {
 
     public static void p3(){
         int number = 112;
+        // if(number/2*2==number) this is also coreect
         if((number & 1) == 0 ){
             System.out.println("number is even without modulo operator");
         }
@@ -134,7 +137,7 @@ public class Assign {
         int number = 10;
         if(number % 5 == 0 || number % 7 == 0 ) {
             System.out.println("number is 5 or 7");
-        } 
+        }
         else {
             System.out.println("number is not divide by 5 or 7");
         }
