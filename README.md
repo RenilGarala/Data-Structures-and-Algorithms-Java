@@ -1,20 +1,22 @@
-## JAVA and DSA: from beginner to pro in one course by Saurabh Shukla
+## ⚡️ JAVA and DSA: from beginner to pro in one course by Saurabh Shukla
 
-# I have shared all notes and assignments in this repository, along with the complete solutions.
+- I have shared all notes and assignments in this repository, along with the complete solutions.
 
 
-# 🎨 Contents
-- ▪️ Day 01 - Inception (Date: 29-07-2024)
-- ▪️ Day 02 - Introduction to Java and History and Features of Java (Date: 31-07-2024)
-- ▪️ Day 03 - Setup Environment (Date: 02-08-2024)
-- ▪️ Day 04 - Exploring first Java program (Date: 05-08-2024)
-- ▪️ Day 05 - Basics of java and Data types and type conversion (Date: 07-08-2024)
-- ▪️ Day 06 - Operators in Java (Date: 09-08-2024)
-- ▪️ Day 07 - Decision control (Date: 12-08-2024)
-- ▪️ Day 08 - Iterative control and switch case (Date: 14-08-2024)
-- ▪️ Day 09 - Classes and Objects (Date: 16-08-2024)
-- ▪️ Day 10 - Memory Management (Date: 19-08-2024)
-
+## 🚀 Contents
+- Day 01 - Inception (Date: 29-07-2024)
+- Day 02 - Introduction to Java and History and Features of Java (Date: 31-07-2024)
+- Day 03 - Setup Environment (Date: 02-08-2024)
+- Day 04 - Exploring first Java program (Date: 05-08-2024)
+- Day 05 - Basics of java and Data types and type conversion (Date: 07-08-2024)
+- Day 06 - Operators in Java (Date: 09-08-2024)
+- Day 07 - Decision control (Date: 12-08-2024)
+- Day 08 - Iterative control and switch case (Date: 14-08-2024)
+- Day 09 - Classes and Objects (Date: 16-08-2024)
+- Day 10 - Memory Management (Date: 19-08-2024)
+- Day 11 - Static keyword
+- Day 12 - Wrapper classes, AutoBoxing, Unboxing 
+- Day 13 - Command Line Arguments
 
 ## 🔥 Clone this Repository
 

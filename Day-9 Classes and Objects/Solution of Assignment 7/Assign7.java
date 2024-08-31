@@ -90,6 +90,7 @@ class Complex{
 
 //program 2 class 
 class Time{
+
     int hour;
     int minute;
     int second;
