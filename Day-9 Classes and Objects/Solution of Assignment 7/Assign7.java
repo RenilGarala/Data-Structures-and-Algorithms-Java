@@ -7,7 +7,6 @@ class Assign7{
         c1.getComplexNumber();
     }
 
-
     //program 2
     public static void p2(){
         Time t1 = new Time();
@@ -78,11 +77,11 @@ class Assign7{
 class Complex{
     int real;
     int imaginary;
-    void setComplexNumber(int r, int i){
+    public void setComplexNumber(int r, int i){
         real = r;
         imaginary = i;
     }
-    void getComplexNumber(){
+    public void getComplexNumber(){
         System.out.println(real);
         System.out.println(imaginary);
     }
