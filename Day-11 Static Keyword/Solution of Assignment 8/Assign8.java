@@ -75,14 +75,12 @@ class Assign8{
 
 }
 
-
-
 //program 1 class
 class Account{
-    int Accountnumber;
-    String customerName;
-    int balance;
-    static float rateofinterest;
+    private int Accountnumber;
+    private String customerName;
+    private int balance;
+    private static float rateofinterest;
 
     public void setAccountNumber(int aNumber){
         Accountnumber = aNumber;
@@ -116,7 +114,19 @@ class SuperCar{
     String ownername;
     int price;
     String color;
+    private static int objectCount;
 
+    // constructor
+    public static SuperCar getInstance(){
+        if(objectCount == 0){
+            objectCount =1;
+            return new SuperCar();
+        }
+        else{
+
+            return null;
+        }
+    }
     public void setOwnerName(String ownername){
         this.ownername=ownername;
     }

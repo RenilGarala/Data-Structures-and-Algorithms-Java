@@ -38,7 +38,7 @@ public class Assignment9{
 }
 class Circle{
     Integer radius;
-    void setRadius(int radius){
+    void setRadius(Integer radius){
         this.radius = radius;
     }
     void getRadius(){
@@ -50,7 +50,7 @@ class Circle{
     void circumference(){
         System.out.println("circumference is " + 2*3.14*radius);
     }
-}
+} 
 
 class Marksheet{
     Integer physics, mathematics, chemistry, english, hindi;
