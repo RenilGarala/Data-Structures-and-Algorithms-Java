@@ -1,16 +1,18 @@
+// Assignment 12 - User input 1
+
 import java.util.Scanner;
 
 public class Assignment12 {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args){
-        // p1();
-        // p3();
-        // p4();
-        // p5();
-        // p6();
-        // p7();
-        // p8();
-        // p9();
+        p1();
+        p3();
+        p4();
+        p5();
+        p6();
+        p7();
+        p8();
+        p9();
         p10();
     }
 
