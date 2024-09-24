@@ -2,17 +2,17 @@ import java.util.Scanner;
 public class Assignment15 {
     public static void main(String[] args) {
         //program 1
-        // Person p1 = new Person(); 
+        Person p1 = new Person(); 
 
         //program 2 
-        // Employee e1 = new Employee();
-        // e1.getEmpDetail();
+        Employee e1 = new Employee();
+        e1.getEmpDetail();
 
-        //prohgram 3
-        // Box b1 = new Box(12,123,12);
+        //program 3
+        Box b1 = new Box(12,123,12);
 
         // program 4
-        // Time t1 = new Time(1,10,00);
+        Time t1 = new Time(1,10,00);
 
         // program 5
         Customer c1 = new Customer(101, "renil", 1020304050L);
@@ -25,12 +25,12 @@ public class Assignment15 {
 class Person{
     private String name;
     private int age;
-
+    
     public Person(){
         System.out.println("Without argument constructer called");
     }
     public Person (String name){
-        System.out.println("Name argument constructer called");
+        System.out.println("Name argument constructer called name"+ name);
     }
     public Person (int age){
         System.out.println("Age argument constructer called");
