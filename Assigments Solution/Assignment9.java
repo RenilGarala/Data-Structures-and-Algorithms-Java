@@ -12,7 +12,10 @@ public class Assignment9{
         c.getRadius();
         c.getArea();
         c.circumference();
-    }
+    } 
+
+    // Car ક્લાસમાંથી એક ઓબ્જેક્ટ બનાવાયો
+
     protected static void p2(){
         Marksheet m = new Marksheet();
         m.setter(79,68,79,97,56);
