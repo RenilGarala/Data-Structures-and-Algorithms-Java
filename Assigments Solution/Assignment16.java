@@ -165,4 +165,27 @@ class Learner extends User{
 class Admin{
 
 }
-//remailning
+
+//program 4
+class Circle{
+    int radius;
+    void setRadius(int radius) {
+        this.radius = radius;
+    }
+    int getRadius() {
+        return radius;
+    }
+    void areaOfCircle(){
+        System.out.println("Area of Circle"+ (3.14*radius*radius));
+    }
+}
+class ThickCircle extends Circle{
+    int thickness;
+    void setThickness(int thickness) {
+        this.thickness = thickness;
+    }
+    void areaOfThickCircle(){
+        System.out.println("Area of ThickCircle"+  (3.14*thickness*thickness));
+    }
+}
+
